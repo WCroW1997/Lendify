@@ -443,7 +443,7 @@ body {
 .app__img {
     flex-basis: 46%;
     width: 100%;
-    height: 100vh;
+    height: 60vh;
     background: url('./img/Phone Mockup 1.png') no-repeat top left, url('./img/Phone Mockup.png') no-repeat right bottom -100px;
     background-size: 232px;
 }
